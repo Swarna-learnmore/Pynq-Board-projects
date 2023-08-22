@@ -17,4 +17,5 @@ PYNQ (Python+Zynq), An FPGA development platform from Xilinx is an Open Source F
 Specifically, PYNQ enables architects, engineers and programmers who design embedded systems to use Zynq devices, without having to use ASIC-style design tools to design programmable logic circuits. PYNQ achieves this goal in three ways: Programmable logic circuits are presented as hardware libraries called overlays.
 
 **What is the difference between PYNQ and Zynq?**
+
 PYNQ stands for “Python Productivity for Zynq” an open-source software framework supporting Xilinx Zynq devices. The framework is a combination of Ubuntu and Python, which is very much loved by the development community. Zynq is an architecture that combines both FPGA with ARM Core into a single SOC.
